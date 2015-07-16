@@ -1,0 +1,9 @@
+.quote {
+  background: url(bg-maleta.jpg) no-repeat fixed center center;
+}
+.quote .color-overlay {
+  padding: 70px 0 60px;
+}
+.quote h3 {
+  padding: 30px
+}
